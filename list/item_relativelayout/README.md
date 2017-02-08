@@ -1,12 +1,12 @@
 #Item in list layout
 This is a item with icon and text, description. Standar for material design below:  
 
-Primary text font: Roboto Regular 16sp  
-Secondary text font: Roboto Regular 14sp  
-Tile height: 72dp  
-Left icon padding: 16dp  
-Text padding, left: 72dp  
-Text padding, top and bottom: 20dp  
+**Primary text font:** Roboto Regular 16sp  
+**Secondary text font:** Roboto Regular 14sp  
+**Tile height:** 72dp  
+**Left icon padding:** 16dp  
+**Text padding, left:** 72dp  
+**Text padding, top and bottom:** 20dp  
 Bottom padding is measured from the baseline.  
 Add 8dp of padding at the top and bottom of a list, except for lists with subheaders, which have their own padding.  
 
