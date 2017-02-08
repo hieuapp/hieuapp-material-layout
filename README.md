@@ -1,3 +1,3 @@
-#Android Material Design xml template
+#Android material design xml template
 This is a collection of Android xml layout, its employs a material design.  
-*List
+* List
